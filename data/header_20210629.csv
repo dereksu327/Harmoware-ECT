@@ -1,0 +1,6 @@
+﻿ID,date,time,CDC,imp,cell spec3,cell spec4,cell spec5
+bat20210620,YYYY/MM/DD,HH:MM:SS,1,1,XXXX,XXXX,XXXX
+CDC-ID,cdc date,cdc time,cdc spec1,cdc spec2,cdc spec3,cdc spec4,cdc spec5
+CDC20210620,YYYY/MM/DD,HH:MM:SS,XXXX,XXXX,XXXX,XXXX,XXXX
+imp-ID,imp date,imp time,imp spec1,imp spec2,imp spec3,imp spec4,imp spec5
+imp20210620,YYYY/MM/DD,HH:MM:SS,XXXX,XXXX,XXXX,XXXX,XXXX
